@@ -5,7 +5,7 @@ test: images/test
 
 nc: 1
 names: 
-  ['cirse']
+  0: cirse
 
 roboflow:
   workspace: julien-fil-rouge-cirses

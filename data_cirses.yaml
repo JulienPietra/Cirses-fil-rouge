@@ -4,7 +4,8 @@ val: images/valid
 test: images/test
 
 nc: 1
-names: ['cirse']
+names: 
+  ['cirse']
 
 roboflow:
   workspace: julien-fil-rouge-cirses

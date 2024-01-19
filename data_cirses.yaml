@@ -1,6 +1,7 @@
-train: ../images/train
-val: ../images/valid
-test: ../images/test
+path: ../datasets/Cirses-fil-rouge-main
+train: images/train
+val: images/valid
+test: images/test
 
 nc: 1
 names: ['cirse']

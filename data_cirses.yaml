@@ -1,4 +1,3 @@
-path: ../datasets/Cirses-fil-rouge-main
 train: images/train
 val: images/valid
 test: images/test
